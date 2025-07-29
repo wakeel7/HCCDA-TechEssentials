@@ -126,11 +126,8 @@ You’ve now successfully:
 
 You’re ready to build, test, and explore!
 
-(<img width="777" height="560" alt="3" src="https://github.com/user-attachments/assets/5950115c-31d4-45e5-bd41-e6c320dbd738" />
-<img width="787" height="425" alt="2" src="https://github.com/user-attachments/assets/32cf1f43-93c5-4268-9ab6-af25966c3770" />
-<img width="794" height="489" alt="1" src="https://github.com/user-attachments/assets/549cfc55-e39c-4c68-8d4f-0f269511e29b" />
-![WhatsApp Image 2025-07-27 at 20 52 42_c0bad4cd](https://github.com/user-attachments/assets/3795fb9e-2e9b-4ece-82d3-786ba02d4c6c)
-<img width="789" height="428" alt="6" src="https://github.com/user-attachments/assets/9640d192-2cc4-4809-b6d6-73b2c7f48afc" />
-<img width="788" height="597" alt="5" src="https://github.com/user-attachments/assets/2400bdc3-6bac-4274-9d4d-5b67a652c593" />
-<img width="781" height="362" alt="4" src="https://github.com/user-attachments/assets/93915ba3-0b3d-416c-9588-3a413b1fe7b5" />
+(<img width="777" height="560" alt="3" src="https://github.com/wakeel7/HCCDA-TechEssentials/blob/d71f7a9f98ee48b9f1980b3c65980a6092531045/cloud-labs/lab-4/images/471243764-5950115c-31d4-45e5-bd41-e6c320dbd738.png" />
+<img width="787" height="425" alt="2" src="https://github.com/wakeel7/HCCDA-TechEssentials/blob/d71f7a9f98ee48b9f1980b3c65980a6092531045/cloud-labs/lab-4/images/471243753-9640d192-2cc4-4809-b6d6-73b2c7f48afc.png" />
+<img width="794" height="489" alt="1" src="https://github.com/wakeel7/HCCDA-TechEssentials/blob/d71f7a9f98ee48b9f1980b3c65980a6092531045/cloud-labs/lab-4/images/471243748-2400bdc3-6bac-4274-9d4d-5b67a652c593.png" />
+<img width="781" height="362" alt="4" src="https://github.com/wakeel7/HCCDA-TechEssentials/blob/d71f7a9f98ee48b9f1980b3c65980a6092531045/cloud-labs/lab-4/images/471243744-93915ba3-0b3d-416c-9588-3a413b1fe7b5.png" />
 )
