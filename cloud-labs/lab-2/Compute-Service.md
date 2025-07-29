@@ -102,18 +102,6 @@ Transform configured ECS instances into reusable templates:
 - **Testing**: Validate new images in staging before production
 - **Tagging**: Use consistent naming conventions for images
 
-(![IMG-20250727-WA0050](https://github.com/user-attachments/assets/78f9c9bc-383c-4acb-9169-b793323dff33)
-![IMG-20250727-WA0049](https://github.com/user-attachments/assets/b3c78143-b520-47e3-a5df-32c2f93d8cf8)
-![IMG-20250727-WA0048](https://github.com/user-attachments/assets/0884a416-49e1-4bfa-8f5f-a6833975b057)
-![IMG-20250727-WA0047](https://github.com/user-attachments/assets/b76f0bc0-f36d-42bb-9e25-ff71a39b5cb1)
-![IMG-20250727-WA0046](https://github.com/user-attachments/assets/75ad0bfe-5d20-4f68-8ee7-3df08c4f1f93)
-![IMG-20250727-WA0045](https://github.com/user-attachments/assets/64c152a3-7274-4786-9160-050b0154f3d5)
-![IMG-20250727-WA0044](https://github.com/user-attachments/assets/66723f5f-5ae4-48f2-853f-0414b4d35201)
-![IMG-20250727-WA0043](https://github.com/user-attachments/assets/5566dc9d-9918-4578-a395-0e67b49703fe)
-![IMG-20250727-WA0042](https://github.com/user-attachments/assets/1dda1e47-d197-4018-98af-9851fab29ac5)
-![IMG-20250727-WA0041](https://github.com/user-attachments/assets/b9c0f2a1-6fba-469b-95fb-6996f3edc77a)
-![IMG-20250727-WA0040](https://github.com/user-attachments/assets/e5a2a054-3bff-46b4-9129-9182fff115f4)
-![IMG-20250727-WA0039](https://github.com/user-attachments/assets/accc5101-6833-41f9-8365-23011d564465)
-![IMG-20250727-WA0052](https://github.com/user-attachments/assets/b3205a78-ad28-4fde-8ffa-ff228058dcc4)
-![IMG-20250727-WA0051](https://github.com/user-attachments/assets/9b7c44a0-5491-441d-be2d-fe1e9d2d2215)
-)
+(![IMG-20250727-WA0050](https://github.com/wakeel7/HCCDA-TechEssentials/blob/ffb5ce331c5b37c0a4445a77d5984b8ffea4391c/cloud-labs/lab-2/Images/471240844-9b7c44a0-5491-441d-be2d-fe1e9d2d2215.jpg)
+![IMG-20250727-WA0049](https://github.com/wakeel7/HCCDA-TechEssentials/blob/ffb5ce331c5b37c0a4445a77d5984b8ffea4391c/cloud-labs/lab-2/Images/471240851-b3205a78-ad28-4fde-8ffa-ff228058dcc4.jpg)
+![IMG-20250727-WA0048](https://github.com/wakeel7/HCCDA-TechEssentials/blob/ffb5ce331c5b37c0a4445a77d5984b8ffea4391c/cloud-labs/lab-2/Images/471240875-75ad0bfe-5d20-4f68-8ee7-3df08c4f1f93.jpg)
