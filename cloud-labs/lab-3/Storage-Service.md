@@ -115,12 +115,6 @@ This hands-on project highlights how to:
 These exercises equip users with practical knowledge to **effectively use Huawei Cloud storage services** in real-world scenarios.
 
 
-![IMG-20250727-WA0033](https://github.com/user-attachments/assets/5d9a7a10-58bf-4164-bbcb-614da257d673)
-![IMG-20250727-WA0032](https://github.com/user-attachments/assets/660306bd-fd9c-4c25-8c18-a4fa14c281f4)
-![IMG-20250727-WA0031](https://github.com/user-attachments/assets/1c38c665-c1e4-4ea1-b9a9-fcc9ba6bbcbd)
-![IMG-20250727-WA0030](https://github.com/user-attachments/assets/2d30028a-e569-4b96-9ca9-295b541eee31)
-![WhatsApp Image 2025-07-27 at 20 52 22_c6cf7fdb](https://github.com/user-attachments/assets/81f8005c-5153-4b39-ad31-0c84b515022b)
-![IMG-20250727-WA0037](https://github.com/user-attachments/assets/59e5ce78-d15d-4b34-90a8-a2e561ab708e)
-![IMG-20250727-WA0036](https://github.com/user-attachments/assets/0a160373-fe3c-4627-9f60-959942bda6c4)
-![IMG-20250727-WA0035](https://github.com/user-attachments/assets/5ca7ec7f-2617-4b81-a8b6-34e10b9d18a9)
-![IMG-20250727-WA0034](https://github.com/user-attachments/assets/d1c2216a-6d58-4d36-acce-e8e576dc117a)
+![IMG-20250727-WA0033](https://github.com/wakeel7/HCCDA-TechEssentials/blob/986b69f54222c753b3a2b1624067c483334d8219/cloud-labs/lab-3/images/471241382-0a160373-fe3c-4627-9f60-959942bda6c4.jpg)
+![IMG-20250727-WA0032](https://github.com/wakeel7/HCCDA-TechEssentials/blob/986b69f54222c753b3a2b1624067c483334d8219/cloud-labs/lab-3/images/471241378-5ca7ec7f-2617-4b81-a8b6-34e10b9d18a9.jpg)
+![IMG-20250727-WA0031](https://github.com/wakeel7/HCCDA-TechEssentials/blob/986b69f54222c753b3a2b1624067c483334d8219/cloud-labs/lab-3/images/471241373-d1c2216a-6d58-4d36-acce-e8e576dc117a.jpg)
