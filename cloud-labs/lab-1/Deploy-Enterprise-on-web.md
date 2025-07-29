@@ -82,18 +82,5 @@ To handle traffic fluctuations:
   - Track **CPU, disk I/O, and network metrics**.
   - Set up alarms for resource thresholds.
     
-  (<img width="913" height="564" alt="13" src="https://github.com/user-attachments/assets/13124435-67bf-4568-a827-a21dec7f8a3e" />
-<img width="907" height="547" alt="12" src="https://github.com/user-attachments/assets/b3994f6f-98c7-4b61-8868-776a3dbc3eee" />
-<img width="908" height="415" alt="11" src="https://github.com/user-attachments/assets/06c51574-6d51-40a1-afd6-14244a3a45d3" />
-<img width="911" height="524" alt="10" src="https://github.com/user-attachments/assets/4ecbe5f7-ddf4-4501-91c9-8de5bd9880da" />
-<img width="909" height="488" alt="9" src="https://github.com/user-attachments/assets/f0e2c439-a4ab-4bb0-bd8c-2604499ca2fa" />
-<img width="906" height="397" alt="8" src="https://github.com/user-attachments/assets/a60c01d8-10cf-4d05-ba06-d4c004e91b06" />
-<img width="910" height="422" alt="7" src="https://github.com/user-attachments/assets/f0defedc-96da-459e-9ee7-fa91a435d40e" />
-<img width="909" height="418" alt="6" src="https://github.com/user-attachments/assets/495ee925-a329-465e-a09b-5ca5abdaa3a2" />
-<img width="928" height="604" alt="5" src="https://github.com/user-attachments/assets/90cb6100-0449-4d4f-b850-25d20aed5905" />
-<img width="915" height="453" alt="4" src="https://github.com/user-attachments/assets/71eb138d-fc0f-4c1c-8429-9f3d4c39b610" />
-<img width="914" height="574" alt="3" src="https://github.com/user-attachments/assets/8cc30190-8a3c-4186-bc89-0ed05613591f" />
-<img width="914" height="523" alt="2" src="https://github.com/user-attachments/assets/44396035-4734-41c0-86b8-6cc4b0990058" />
-<img width="806" height="410" alt="1" src="https://github.com/user-attachments/assets/0c626442-c713-4763-8bff-dd0924be3695" />
-<img width="906" height="433" alt="14" src="https://github.com/user-attachments/assets/c13fcc82-2aa4-44b4-8171-ee6a12705b08" />
-)
+  (<img width="913" height="564" alt="13" src="https://github.com/wakeel7/HCCDA-TechEssentials/blob/ed1ee7dce16773702a7077b8d4685f156f54e27f/cloud-labs/lab-1/Images/Screenshot%202025-07-28%20223432.png" />
+<img width="907" height="547" alt="12" src="https://github.com/wakeel7/HCCDA-TechEssentials/blob/ed1ee7dce16773702a7077b8d4685f156f54e27f/cloud-labs/lab-1/Images/Screenshot%202025-07-28%20223420.png" />
